@@ -16,6 +16,8 @@ how to deploy
 
 ## How to Contribute 
 
+please fork and then issue pull requests for review 
+
 
 ## copyright
 copyright notice
