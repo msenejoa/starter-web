@@ -16,3 +16,6 @@ how to deploy
 
 ## How to Contribute 
 
+
+## copyright
+copyright notice
