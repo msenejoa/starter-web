@@ -1,0 +1,11 @@
+.DS_Store
+log/
+*.orig
+simple_BACKUP_81178.html
+simple_BACKUP_81259.html
+simple_BASE_81178.html
+simple_BASE_81259.html
+simple_LOCAL_81178.html
+simple_LOCAL_81259.html
+simple_REMOTE_81178.html
+simple_REMOTE_81259.html
